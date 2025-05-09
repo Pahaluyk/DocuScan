@@ -33,5 +33,5 @@ cd ../frontend
 npm install
 npm run dev
 ```
-
+### Пример инференса
 ![Снимок экрана 2025-05-09 215116](https://github.com/user-attachments/assets/83a25852-92bd-454f-9695-5c0205a87d95)
